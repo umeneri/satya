@@ -1,0 +1,9 @@
+{
+  "name": "dsl-generated-dependencies",
+  "dependencies": {
+    "cal-heatmap": "3.3.10",
+    "c3": "latest",
+    "moment": "latest",
+    "bootstrap": "latest"
+  }
+}
